@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">eVoting</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_user_info">User_info</string>
+    <string name="title_activity_info">Info</string>
+    <string name="title_activity_authentication">Verify and Continue</string>
+    <string name="title_activity_session_expire">SessionExpire</string>
+    <string name="title_activity_twitter">Twitter</string>
+    <string name="title_activity_options">Options</string>
+    <string name="title_activity_histogram">Histogram</string>
+    <string name="title_activity_navigation">Navigation</string>
+
+    <string name="title_section1">Cast a Vote</string>
+    <string name="title_section2">Post a Twitter Review</string>
+    <string name="title_section3">Public Opinion Analysis</string>
+    <string name="title_section4">Previous Year Statistics</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+    <string name="title_activity_analysis">Analysis</string>
+</resources>
